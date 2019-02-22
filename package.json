@@ -1,0 +1,26 @@
+{
+  "name": "hapi",
+  "version": "1.0.0",
+  "description": "hapi now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mh1874/hapi-test.git"
+  },
+  "keywords": [
+    "hapi-test"
+  ],
+  "author": "mh1874@sina.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mh1874/hapi-test/issues"
+  },
+  "homepage": "https://github.com/mh1874/hapi-test#readme",
+  "dependencies": {
+    "env2": "^2.2.2",
+    "hapi": "16"
+  }
+}
